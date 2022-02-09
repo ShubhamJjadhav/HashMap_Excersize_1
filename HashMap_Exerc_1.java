@@ -2,7 +2,8 @@ package com.capgemini.sfdc.col;
 
 import java.util.HashMap;
 
-public class HashMap_Exerc_1 {
+public class HashMap_Exerc_1 
+{
 	
 	public static void main(String[] args)
 	{
