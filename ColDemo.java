@@ -6,13 +6,6 @@ public class ColDemo {
 
 	public static void main(String[] args) {
 
-////		int[] arr = { 10, 20, 30.5 };
-//		int[] arr = { 10, 20, 30 };
-//		for (int a : arr) {
-//			System.out.println(a);
-//		}
-//		arr[2] = 35;
-//		arr[3] = 40;
 
 		ArrayList list = new ArrayList();
 
