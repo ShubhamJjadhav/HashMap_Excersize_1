@@ -20,9 +20,6 @@ public class HashSet_1
 			System.out.println(set.size());
 			System.out.println(set);
 
-		
-	
-
 	}
 
 }
